@@ -14,6 +14,7 @@ flask
  #. http://flask.pocoo.org/docs/1.0/deploying/#deployment   
  
  #. https://winterj.me/flask-release/
+ #. http://flask.pocoo.org/docs/0.12/patterns/packages/
 
 #. http://flask.pocoo.org/docs/1.0/deploying/uwsgi/#starting-your-app-with-uwsgi
  
