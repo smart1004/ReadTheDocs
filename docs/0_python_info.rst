@@ -1,5 +1,5 @@
 ============
-파이썬 일반
+0_파이썬 일반
 ============
 
 https://dojang.io/mod/page/view.php?id=967
