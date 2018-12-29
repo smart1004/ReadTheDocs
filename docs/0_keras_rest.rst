@@ -3,7 +3,8 @@
 0_scalable keras deep learning rest api
 ============
 
-00 scalable keras deep learning rest api
+get_Model, load model in memory, 동영상 
+ * https://www.youtube.com/watch?v=XgzxH6G-ufA
 
 최신판   
 https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/   
