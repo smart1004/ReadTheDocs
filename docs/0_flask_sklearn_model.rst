@@ -6,7 +6,7 @@
 --------
 중요
 --------
-#.https://www.datacamp.com/community/tutorials/machine-learning-models-api-python   
+ #. https://www.datacamp.com/community/tutorials/machine-learning-models-api-python   
 
 
 
