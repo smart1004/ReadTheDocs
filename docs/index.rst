@@ -6,8 +6,6 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
-성경욱    Contents: Contents: Contents: Contents: Contents: Contents: Contents:   
-
 
 Contents: 
 
