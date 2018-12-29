@@ -1,7 +1,7 @@
 0 00 ml rest sklearn rest
 
 ============
-Installation
+0ml_rest
 ============
 
 Install the package with pip::
