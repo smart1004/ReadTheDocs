@@ -4,9 +4,9 @@
 0ml_rest
 ============
 
-Install the package with pip::
+~~~~~~ ::
 
-    $ pip install read-the-docs-template
+    $ ~~~~~~~~~~~
 
 https://readthedocs.org/
 
