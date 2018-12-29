@@ -7,7 +7,13 @@
 machine-learning-models-api-python
 --------
  #. https://www.datacamp.com/community/tutorials/machine-learning-models-api-python   
- 
+
+위 아이디어가 좋은 것 같다. 
+학습 시점에 컬럼 리스트를 피클로 저장한다. 
+파생변수도 마찬가지.  one-hot encoding한 변수도 마찬가지다.
+
+
+
 --------
 flask
 -------- 
