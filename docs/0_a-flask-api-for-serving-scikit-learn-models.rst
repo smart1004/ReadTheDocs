@@ -3,7 +3,7 @@ a-flask-api-for-serving-scikit-learn-models.rst
 * 참고
 https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa
 
-::
+::   
 --- 원본
 from flask import Flask, jsonify
 from sklearn.externals import joblib
