@@ -3,13 +3,14 @@
 0_flask sklearn model
 ============
 
+--------
+중요
+--------
+#.https://www.datacamp.com/community/tutorials/machine-learning-models-api-python   
 
-https://www.datacamp.com/community/tutorials/machine-learning-models-api-python   
+
 
 https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa   
-
-
-
 
 https://loads.pickle.me.uk/2016/04/04/deploying-a-scikit-learn-classifier-to-production/
 
