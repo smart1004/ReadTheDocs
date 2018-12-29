@@ -35,3 +35,8 @@ https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5
 
 
 ★
+how-to-keep-a-keras-model-loaded-into-memory-and-use-it
+
+https://stackoverflow.com/questions/52937256/how-to-keep-a-keras-model-loaded-into-memory-and-use-it-when-needed
+
+https://github.com/Ares513/DetectingTrollsApi/blob/master/api.py
