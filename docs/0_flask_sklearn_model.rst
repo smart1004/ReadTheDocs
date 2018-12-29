@@ -4,10 +4,14 @@
 ============
 
 --------
-중요
+machine-learning-models-api-python
 --------
  #. https://www.datacamp.com/community/tutorials/machine-learning-models-api-python   
-
+ 
+--------
+flask
+-------- 
+ #. http://flask.pocoo.org/docs/0.12/deploying/
 
 
 https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa   
