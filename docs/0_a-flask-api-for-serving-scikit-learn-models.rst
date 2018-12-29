@@ -6,9 +6,9 @@ https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcd
 
 
 > 원본
-|from flask import Flask, jsonify
-|from sklearn.externals import joblib
-|import pandas as pd
+| from flask import Flask, jsonify
+| from sklearn.externals import joblib
+| import pandas as pd
 |
 |app = Flask(__name__)
 |clf = joblib.load('model.pkl') # 이렇게 하면 메모리에 한번 올리고 여러 쓰레드가 같이 사용할수 있을 것 같다. 
