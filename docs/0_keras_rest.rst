@@ -1,6 +1,6 @@
 
 ============
-0_0 scalable keras deep learning rest api
+0_scalable keras deep learning rest api
 ============
 
 00 scalable keras deep learning rest api
