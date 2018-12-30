@@ -2,11 +2,19 @@
 Docker_TensorFlow
 Docker Image for TensorFlow/Keras
 
+https://dev-ops-notes.com/docker/howto-run-jupiter-keras-tensorflow-pandas-sklearn-and-matplotlib-docker-container/
+
+
+http://taewan.kim/post/python_env_for_machine_learning/
 > docker pull taewanme/pyml:0.1.07
 > docker images --all
 docker run -itd -p 8888:8888 -p 6006:6006   -v C:\Users\kusun\my_dir:/root/ipython   --name pyml  taewanme/pyml:0.1.07
+
+
 암호는 Welcome1  이다
 
+docker container ls
+docker container stop 30bffb99790f
 
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
 https://www.youtube.com/watch?v=_Lo-5SZDDEc
