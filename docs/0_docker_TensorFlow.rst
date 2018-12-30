@@ -1,8 +1,11 @@
 docker run -it ubuntu
 
-
 Docker_TensorFlow
 Docker Image for TensorFlow/Keras
+
+docker-guide
+ * https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html
+
 
 https://dev-ops-notes.com/docker/howto-run-jupiter-keras-tensorflow-pandas-sklearn-and-matplotlib-docker-container/
 
