@@ -107,9 +107,10 @@ docker 이미지 위치를 변경 후 이미지 파티션을 삭제하고 다시
 아마도 이전 설정을 그대로 가지고 있는듯하다. 
 
 C:\ProgramData\Docker 
-
 %AppData%/Local/Docker 
 %AppData%/Roaming/Docker too
+C:\Program Files\Docker
 
 
-
+윈도우 docker uninstall
+How to completely remove Docker in Windows 10
