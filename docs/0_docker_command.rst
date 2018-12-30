@@ -1,8 +1,23 @@
 0_docker_command.rst
 
-# jep
-C:\ProgramData\Anaconda3\envs\TF\python.exe setup.py build
-C:\ProgramData\Anaconda3\envs\TF\python.exe setup.py install
+vim 설치
+ * http://blog.hemapresso.com/?p=715
+
+docker run -it ubuntu /bin/bash
+
+apt-get update
+apt-get install vim
+
+docker ps -a
+
+docker commit c06b9adb389d ubuntu_my  <--- 이미지 저장 명령
+
+docker run -it ubuntu_my /bin/bash
+
+get-started
+ * https://docs.docker.com/get-started/part2/#requirementstxt
+
+
  
 -----------------
 conda create -n tf pip python=3.5
@@ -76,3 +91,7 @@ docker rm 컨테이너id
 docker images
 docker rmi <image id>   image 삭제
 --------------------
+
+# jep
+C:\ProgramData\Anaconda3\envs\TF\python.exe setup.py build
+C:\ProgramData\Anaconda3\envs\TF\python.exe setup.py install
