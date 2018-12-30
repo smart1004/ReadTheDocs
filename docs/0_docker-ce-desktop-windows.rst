@@ -1,9 +1,4 @@
 
-http://cpdev.tistory.com/tag/docker
-개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
- 위치: Docker.Program.Run(IReadOnlyCollection`1 args)
- 
-
 docker-ce-desktop-windows
 https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
@@ -97,7 +92,12 @@ docker images
 docker rmi <image id>   image 삭제
 --------------------
 
---------------------
+docker
+=====================
+http://cpdev.tistory.com/tag/docker
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+ 위치: Docker.Program.Run(IReadOnlyCollection`1 args)
+
 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
  위치: Docker.Program.Run(IReadOnlyCollection`1 args)
 
