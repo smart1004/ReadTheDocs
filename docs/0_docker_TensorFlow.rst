@@ -1,3 +1,5 @@
+docker run -it ubuntu
+
 
 Docker_TensorFlow
 Docker Image for TensorFlow/Keras
