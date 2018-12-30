@@ -13,7 +13,7 @@ https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-fl
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/   
 
 
-**** 아주 좋은 자료이다.
+**** 아주 좋은 자료이다.  
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
