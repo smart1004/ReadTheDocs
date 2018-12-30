@@ -12,12 +12,9 @@ keras-redis-flask 최신판
  * https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/   
  * 아래가 위 링크의 소스코드다
  * https://github.com/smart1004/tools/blob/master/keras-complete-rest-api.zip
+ * 아주 좋은 자료이다.   
+ * https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/   
 
-https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/   
-
-
-**** 아주 좋은 자료이다.  
-https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
 
 https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
 Caveat: We are assuming you are using the default Flask server that is single threaded. If you deploy to a multi-threaded server you could be in a situation where you are still loading multiple models in memory even when using the "more correct" method discussed earlier in this post. If you intend on using a dedicated server such as Apache or nginx you should consider making your pipeline more scalable, as discussed here.
