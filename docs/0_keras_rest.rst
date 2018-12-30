@@ -10,7 +10,7 @@ get_Model, load model in memory, 동영상
   
 keras-redis-flask 최신판   
  * https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/   
- * 아래가 위 링크의 
+ * 아래가 위 링크의 소스코드다
  * https://github.com/smart1004/tools/blob/master/keras-complete-rest-api.zip
 
 https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/   
