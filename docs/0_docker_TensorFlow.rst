@@ -3,6 +3,10 @@ docker run -it ubuntu
 Docker_TensorFlow
 Docker Image for TensorFlow/Keras
 
+docker windows tutorial
+ * https://docs.docker.com/docker-for-windows/
+
+
 한글 docker 
  * https://www.slideshare.net/iFunFactory/docker-linux-linux-66590915
 
