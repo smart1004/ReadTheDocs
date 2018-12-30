@@ -40,8 +40,10 @@ conda install -c conda-forge keras
 (tf) root@b514cb0e9e9a:/opt/conda/envs#               
 
 ================================================
-docker run hello-world
 powershell
+
+docker run hello-world
+
 docker pull continuumio/miniconda3
 
 docker run -i -t continuumio/miniconda3 /bin/bash
