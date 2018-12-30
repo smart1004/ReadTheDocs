@@ -96,3 +96,20 @@ docker rm 컨테이너id
 docker images
 docker rmi <image id>   image 삭제
 --------------------
+
+--------------------
+개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+ 위치: Docker.Program.Run(IReadOnlyCollection`1 args)
+
+docker 이미지 위치를 변경 후 이미지 파티션을 삭제하고 다시 생성하였더니 실행할때마다 위와같은 메세지가 나오면서 실행되지 않았다. 
+삭제,설치를 여러번해봐야 소용없고, 아래 3개 폴더를 삭제하고 다시 실행하니 정상동작한다. 
+
+아마도 이전 설정을 그대로 가지고 있는듯하다. 
+
+C:\ProgramData\Docker 
+
+%AppData%/Local/Docker 
+%AppData%/Roaming/Docker too
+
+
+
