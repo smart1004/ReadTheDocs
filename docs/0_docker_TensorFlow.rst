@@ -2,6 +2,8 @@
 Docker_TensorFlow
 Docker Image for TensorFlow/Keras
 
+https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+
 https://www.youtube.com/watch?v=_Lo-5SZDDEc
 
 
