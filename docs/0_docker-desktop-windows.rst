@@ -4,6 +4,7 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
 
 Docker for Data Science Workflows
+ * docker image를 내렸는데 
  * https://www.kdnuggets.com/2018/01/docker-data-science.html
  * https://www.analyticsvidhya.com/blog/2017/11/reproducible-data-science-docker-for-data-science/
 
