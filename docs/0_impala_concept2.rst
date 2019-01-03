@@ -2,6 +2,8 @@
 0_impala_in_python.rst
 impala in python
 
+http://ryufree.tistory.com/220
+
 임팔라는 하둡상에서 맵-리듀스(Map-Reduce)를 이용하지 않고 SQL(Standard Query Language)을 처리하는 기능을 내장한 제품입니다
 임팔라는 하둡 위에 동작하는 질의 엔진
 
