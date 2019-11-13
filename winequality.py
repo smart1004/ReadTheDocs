@@ -26,29 +26,13 @@ wine_apply[:3,:]
 
 # wine_df
 
-# # 종속(Y), 독립(X), 범주형, 숫자형 판단
-#
-# - 독립변수
-#   - fixed acidity (고정산) : 숫자형
-#   - volatile acidity (휘발산) : 숫자형
-#   - citric cacid (구연산)  : 숫자형
-#   - residual sugar (잔여 설탕) : 숫자형
-#   - chlorides (염화물) : 숫자형
-#   - free sulfur dioxide (유리 이산화황) : 숫자형
-#   - total sulfur dioxide (총 이산화황)  : 숫자형
-#   - density (밀도) : 숫자형
-#   - ph (산도) : 숫자형
-#   - sulphates (황산염) : 숫자형
-#   - alcohol (알콜) : 숫자형
-# - 종속변수
-#   - quality (등급) : 종속변수, 범주형
 
 # # onehot encoding : y_labe, category
 
 # In[5]:
 
-# onehot encoding (종속변수, 범주형)
-#범위
+# onehot encoding  
+
 print(set(wine_df["quality"]))
 
 # In[6]:
